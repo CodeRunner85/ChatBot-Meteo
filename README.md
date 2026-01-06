@@ -3,7 +3,7 @@ Un assistant météo intelligent développé en Python avec Tkinter & l’API Op
 
 # Description
 
-Weather ChatBot est une application Python permettant d’interagir avec un chatbot météo capable de comprendre le langage naturel.
+ChatBot-Meteo est une application Python permettant d’interagir avec un chatbot météo capable de comprendre le langage naturel.
 
 Elle fournit :
 - la météo actuelle
@@ -79,21 +79,21 @@ ChatBot-Meteo/
 └── README.md                 # Ce fichier
 
 # Installation
-1️ Cloner le projet
-git clone https://github.com/CodeRunner85/weather-chatbot.git
-cd weather-chatbot
+1️ Cloner le projet   
+git clone https://github.com/CodeRunner85/ChatBot-Meteo.git   
+cd ChatBot-Meteo 
 
 2️ Installer les dépendances
 pip install -r requirements.txt
 
-3️ Ajouter ta clé API OpenWeather
+3️ Ajouter votre clé API OpenWeather
 
-Dans le fichier main.py, remplace :
+Dans le fichier ChatBot Meteo.py, remplace :
 API_KEY = "VOTRE CLE API"
-par ta clé réelle.
+par votre clé réelle.
 
 Lancer l’application
-python main.py
+python ChatBot Meteo.py
 
 #
 
