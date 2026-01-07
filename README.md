@@ -1,4 +1,4 @@
-# Weather ChatBot
+# ChatBot-Meteo
 Un assistant météo intelligent développé en Python avec Tkinter & l’API OpenWeather
 
 # Description
